@@ -1,6 +1,6 @@
 # my-notes
 
-## **Dear Salim**,
+## **Dear ASAC**,
 
 I would like to take this opportunity to introduce myself. My name is **Bashar N Shehadeh**, and I am honored to be a member of this community. I hail from Jordan and currently reside in Amman. I hold a Bachelor's degree in **Computer Information Systems** (*CIS*), and have developed a strong interest in technology throughout my academic and professional career.
 
@@ -18,7 +18,7 @@ When I am not working, I enjoy pursuing my hobbies, which include:
 
 - Calligraphy
 - Photography
-- ~~Sleep~~
+
 
 ## *Goals*
 
@@ -49,5 +49,3 @@ I learned more about **git** and **GitHub** and what the difference between thei
 Sincerely,
 
 Bashar Shehadeh
-
-![hhh](https://codinginfinite.com/wp-content/uploads/2019/05/maxresdefault-1.jpg)
